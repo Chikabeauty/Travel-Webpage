@@ -1,0 +1,1 @@
+In this project, l used everything I have learned so far to create a travel website enticing viewers to visit an exotic locale. This webpage contains images of what they'll see, lists of things to see and places to go, and paragraphs of enticing details. I also used CSS to style the website, using a mix of the simple selectors I have learned.
